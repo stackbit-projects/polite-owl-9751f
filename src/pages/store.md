@@ -1,5 +1,5 @@
 ---
-title: Testing the S
+title: Testing the Store
 excerpt: lorem-ipsum
 template: page
 ---
