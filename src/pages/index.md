@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: /store
         style: link
         new_window: false
         type: action
