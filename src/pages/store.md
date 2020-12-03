@@ -1,5 +1,5 @@
 ---
-title: 'Testing the '
+title: Testing the S
 excerpt: lorem-ipsum
 template: page
 ---
