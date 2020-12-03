@@ -15,7 +15,7 @@ sections:
         style: secondary
       - label: lorem-ipsum
         url: /store
-        style: link
+        style: secondary
         new_window: false
         type: action
     align: left
