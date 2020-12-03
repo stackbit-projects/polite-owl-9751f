@@ -13,6 +13,11 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        type: action
     align: left
     image: images/hero.svg
     image_position: right
